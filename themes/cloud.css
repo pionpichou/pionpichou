@@ -7,13 +7,13 @@
 
 .parties-view
 {
-    background: url(http://rzzzabka.github.io/themes/assets/clouds1.jpg) !important;
+    background: url(https://pionpichou.github.io/pionpichou/themes/rengar.jpg) !important;
 }
 .parties-view .parties-background {
     opacity:0;
 }
 .collections-application{
-    background: url(http://rzzzabka.github.io/themes/assets/clouds1.jpg) !important;
+    background: url(https://pionpichou.github.io/pionpichou/themes/rengar.jpg) !important;
 }
 
 div[data-screen-name='rcp-fe-lol-navigation-screen'] {
@@ -51,7 +51,7 @@ div[data-screen-name='rcp-fe-lol-navigation-screen'] {
     -webkit-user-drag: none;
     -webkit-user-select: none;
     background-color:transparent !important;
-    background:url('http://rzzzabka.github.io/themes/assets/clouds2.jpg')!important;
+    background:url('https://pionpichou.github.io/pionpichou/themes/rengar.jpg')!important;
     box-shadow: inset 0px 0px 150px  rgba(255, 255, 255, 0.2) ;        
     border-radius:20px 20px 0px 0px;
 }
@@ -141,7 +141,7 @@ div[data-screen-name='rcp-fe-lol-navigation-screen'] {
     width: 1055px;
     height: 718px;
     overflow: hidden;
-    background: url(http://rzzzabka.github.io/themes/assets/clouds1.jpg) !important;
+    background: url(https://pionpichou.github.io/pionpichou/themes/rengar.jpg) !important;
     
 }
 
@@ -496,7 +496,7 @@ div[data-screen-name='rcp-fe-lol-navigation-screen'] {
 
 
 .loot-backdrop .lol-uikit-video-content{
-    background: url(http://rzzzabka.github.io/themes/assets/clouds1.jpg) !important;    
+    background: url(https://pionpichou.github.io/pionpichou/themes/rengar.jpg) !important;    
     display: block;   
     box-sizing: border-box;
     width: 180px; 
