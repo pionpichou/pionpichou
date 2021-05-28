@@ -388,7 +388,7 @@ div[data-screen-name='rcp-fe-lol-navigation-screen'] {
     -webkit-font-smoothing: subpixel-antialiased;
 }
 .member-status, .status-message, .status-message-product-name, .status-message-quoted{
-    color: hsla(143, 90%, 44%, 1) !important;
+    color: hsl(0, 0%, 40%) !important;
     text-shadow: 1px  1px 1px #000000 !important; 
 }
 .dnd {
