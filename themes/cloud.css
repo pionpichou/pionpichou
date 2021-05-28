@@ -387,20 +387,11 @@ div[data-screen-name='rcp-fe-lol-navigation-screen'] {
     letter-spacing: 0.025em;
     -webkit-font-smoothing: subpixel-antialiased;
 }
-.member-status, .status-message, .status-message-quoted{
-    color: hsl(0, 0%, 40%) !important;
+
+.member-status, .status-message, .status-message-product-name, .status-message-quoted{
+    color: hsla(143, 90%, 44%, 1) !important;
     text-shadow: 1px  1px 1px #000000 !important; 
 }
-
-.status-message-product-name, .member-status{
-
-    color: hsla(143, 90%, 44%, 1) !important;
-    text-shadow: 1px  1px 1px #000000 !important;
-    
-}
-
-
-
 .dnd {
     color:hsla(187, 92%, 57%, 1) !important;
 }
