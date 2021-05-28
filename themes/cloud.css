@@ -391,6 +391,16 @@ div[data-screen-name='rcp-fe-lol-navigation-screen'] {
     color: hsl(0, 0%, 40%) !important;
     text-shadow: 1px  1px 1px #000000 !important; 
 }
+
+.status-message{
+
+    color: hsla(143, 90%, 44%, 1) !important;
+    text-shadow: 1px  1px 1px #000000 !important;
+    
+}
+
+
+
 .dnd {
     color:hsla(187, 92%, 57%, 1) !important;
 }
