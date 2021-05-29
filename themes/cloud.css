@@ -389,7 +389,7 @@ div[data-screen-name='rcp-fe-lol-navigation-screen'] {
 }
 
 .member-status, .status-message, .status-message-product-name, .status-message-quoted{
-    color: hsla(143, 90%, 44%, 1) !important;
+    color: hsl(0, 0%, 85%) !important;
     text-shadow: 1px  1px 1px #000000 !important; 
 }
 .dnd {
